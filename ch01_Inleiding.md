@@ -23,5 +23,5 @@ en de Waarderingskamer.
 |  StUF protocolbindingen 3.02        | [StUF website](http://www.gemmaonline.nl/index.php/StUF_Berichtenstandaard) |
 |  ArchiMate 2.n                      | [The Open Group Website](https://www.opengroup.org/) |
 |  DMKS cookiebox                     | [Digimelding pagina op Logius website](https://www.logius.nl/diensten/digimelding/) |
-|  Digikoppeling WUS 3.0              | [Vastgestelde versie 06 oktober 2020](https://publicatie.centrumvoorstandaarden.nl/dk/wus/) |
-|  Digikoppeling-architectuur         | [Vastgestelde versie 07 oktober 2018](https://publicatie.centrumvoorstandaarden.nl/dk/architectuur/) |
+|  Digikoppeling WUS 3.0              | [Vastgestelde versie 06 oktober 2020](https://gitdocumentatie.logius.nl/publicatie/dk/wus/) |
+|  Digikoppeling-architectuur         | [Vastgestelde versie 07 oktober 2018](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/) |
