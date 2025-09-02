@@ -1,0 +1,1 @@
+Voor terugmeldvoorzieningen in het algemeen is de Digimelding Koppelvlakspecificatie (DMKS) opgesteld, waarin wordt gespecificeerd hoe terugmeldingen verzonden dienen te worden. De webservices waarmee gemeentelijke pakketleveranciers geautomatiseerde terugmeldingen kunnen doen zijn ook gebaseerd op Digimelding.
