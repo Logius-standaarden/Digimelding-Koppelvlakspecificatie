@@ -1,8 +1,6 @@
-var respecConfig = {
-  alternateFormats: [ { 
-        "label" : "pdf",
-        "uri" : "Digimelding-Koppelvlakspecificatie.pdf"
-      } ],
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   authors: [ { 
         "mailto" : "digikoppeling@logius.nl",
         "name" : "Logius",
@@ -29,4 +27,4 @@ var respecConfig = {
   specStatus: "WV",
   specType: "HR",
   subtitle: "Handreiking"
-};
+});
