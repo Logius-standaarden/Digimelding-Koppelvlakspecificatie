@@ -2,19 +2,20 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 
 loadRespecWithConfiguration({
   authors: [ { 
-        "name" : "Logius",
-        "url" : "https://logius.nl/standaarden"
+        "company" : "Logius",
+        "name" : "Peter Haasnoot",
+        "url" : "https://www.logius.nl"
       } ],
   editors: [ 
       { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       },
       { 
         "company" : "Logius",
         "name" : "Peter Haasnoot",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       }
     ],
   github: "https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie",
