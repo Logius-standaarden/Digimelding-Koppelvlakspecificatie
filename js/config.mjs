@@ -6,12 +6,7 @@ loadRespecWithConfiguration({
         "name" : "Peter Haasnoot",
         "url" : "https://www.logius.nl"
       } ],
-  editors: [ 
-      { 
-        "company" : "Logius",
-        "name" : "Edwin Wisse",
-        "url" : "https://www.logius.nl"
-      },
+  editors: [
       { 
         "company" : "Logius",
         "name" : "Peter Haasnoot",
@@ -20,11 +15,10 @@ loadRespecWithConfiguration({
     ],
   github: "https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie",
   pubDomain: "digimelding",
-  previousPublishVersion: [],
-  publishDate: "2021-02-19",
-  publishVersion: "1.4.0",
   shortName: "koppelvlak",
-  specStatus: "DEF",
   specType: "HR",
-  subtitle: "Handreiking",
+  specStatus: "DEF",
+  previousPublishVersion: "1.4.0",
+  publishVersion: "1.4.1",
+  publishDate: "2026-07-28",
 });

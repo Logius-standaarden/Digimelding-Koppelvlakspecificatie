@@ -20,6 +20,8 @@ Per bericht wordt aangegeven (indien relevant):
 
 Tevens wordt bij de berichten een interactiediagram getoond waarin
 duidelijk wordt welk systeem het bericht initieert.
+Alle tijdstempels in de communicatie van en naar Digimelding hebben de
+tijdzone `Europe/Amsterdam`.
 
 ## Annotaties Algemeen
 
