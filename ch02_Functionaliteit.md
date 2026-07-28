@@ -18,7 +18,7 @@ deze services moeten bieden.
 
 In deze specificatie wordt uitgegaan van een referentiearchitectuur.
 
-![De referentiearchitectuur](images/image1.png "De referentiearchitectuur")
+![De referentiearchitectuur](media/image1.png "De referentiearchitectuur")
 
 In [bovenstaande figuur](#fig-de-referentiearchitectuur) is de referentie-applicatiearchitectuur weergegeven. Deze
 gaat uit van een generiek overheidsperspectief, waarbij wordt

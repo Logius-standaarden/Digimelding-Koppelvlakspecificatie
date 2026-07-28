@@ -21,4 +21,4 @@ Op een terugmelding kunnen verschillende statussen van toepassing zijn.
 In onderstaand figuur zijn de verschillende statussen en hun relatie
 afgebeeld.
 
-![Digimelding proces](images/digimelding.svg "Digimelding proces")
+![Digimelding proces](media/digimelding.svg "Digimelding proces")

@@ -74,11 +74,11 @@ De berichten beschreven in deze uitwisseling worden gebruikt om:
 
 ### Scenario's Communicatie
 
-![Interactiediagram terugmelden/intrekken direct](images/image3.png "Interactiediagram terugmelden/intrekken direct")
+![Interactiediagram terugmelden/intrekken direct](media/image3.png "Interactiediagram terugmelden/intrekken direct")
 
-![Interactiediagram terugmelden/intrekken via Digimelding Webservice](images/image4.png "Interactiediagram terugmelden/intrekken via Digimelding Webservice")
+![Interactiediagram terugmelden/intrekken via Digimelding Webservice](media/image4.png "Interactiediagram terugmelden/intrekken via Digimelding Webservice")
 
-![Interactiediagram status wijzigen](images/image5.png "Interactiediagram status wijzigen")
+![Interactiediagram status wijzigen](media/image5.png "Interactiediagram status wijzigen")
 
 ### Inhoud bericht Annotatie ToevoegenRequest
 
@@ -227,9 +227,9 @@ en Bronhouder om een statusoverzicht op te vragen.
 Ter illustratie onderstaand de interactie tussen Afnemer en
 Basisregistratie.
 
-![Interactiediagram status opvragen via de Digimelding Webservice](images/image6.png "Interactiediagram status opvragen via de Digimelding Webservice")
+![Interactiediagram status opvragen via de Digimelding Webservice](media/image6.png "Interactiediagram status opvragen via de Digimelding Webservice")
 
-![Interactiediagram status opvragen rechtstreeks](images/image7.png "Interactiediagram status opvragen rechtstreeks")
+![Interactiediagram status opvragen rechtstreeks](media/image7.png "Interactiediagram status opvragen rechtstreeks")
 
 Het statusoverzicht wordt opgevraagd op basis van de verplichte
 elementen OIN en basisregistratie. Het OIN is verplicht omdat alle
@@ -311,9 +311,9 @@ en Bronhouder om details van een bepaalde terugmelding op te vragen.
 Ter illustratie onderstaand de interactie tussen Afnemer en
 Basisregistratie.
 
-![Interactiediagram details terugmelding bevragen via Digimelding Webservice](images/image8.png "Interactiediagram details terugmelding bevragen via Digimelding Webservice")
+![Interactiediagram details terugmelding bevragen via Digimelding Webservice](media/image8.png "Interactiediagram details terugmelding bevragen via Digimelding Webservice")
 
-![Interactiediagram detail terugmelding bevragen rechtstreeks](images/image9.png "Interactiediagram detail terugmelding bevragen rechtstreeks")
+![Interactiediagram detail terugmelding bevragen rechtstreeks](media/image9.png "Interactiediagram detail terugmelding bevragen rechtstreeks")
 
 Het doel van dit bericht is het opvragen van alle informatie over één
 terugmelding bij een basisregistratie. Hiervoor wordt het OIN van de
@@ -429,9 +429,9 @@ is.
 |  Vervolgactie   |   Indien de echo faalt onderzoeken waardoor dit wordt veroorzaakt.                                           |
 |  Bijzonderheden |   
 
-![ Interactiediagram voor echo's](images/image10.png " Interactiediagram voor echo's")
+![ Interactiediagram voor echo's](media/image10.png " Interactiediagram voor echo's")
 
-![Interactiediagram echoverzoek via Digimelding Webservice](images/image11.png "Interactiediagram echoverzoek via Digimelding Webservice")
+![Interactiediagram echoverzoek via Digimelding Webservice](media/image11.png "Interactiediagram echoverzoek via Digimelding Webservice")
 
 ### EchoRequest
 
