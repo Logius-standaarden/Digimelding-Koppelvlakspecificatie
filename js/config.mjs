@@ -14,12 +14,11 @@ loadRespecWithConfiguration({
       }
     ],
   github: "https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie",
-  previousPublishDate: "2021-06-01",
-  prevVersion: [],
   pubDomain: "digimelding",
-  publishDate: "2026-07-20",
-  publishVersion: "1.4.1",
   shortName: "koppelvlak",
-  specStatus: "WV",
-  specType: "HR"
+  specType: "HR",
+  specStatus: "DEF",
+  previousPublishVersion: "1.4.0",
+  publishVersion: "1.4.1",
+  publishDate: "2026-07-28",
 });
